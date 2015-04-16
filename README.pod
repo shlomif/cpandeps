@@ -1,0 +1,8 @@
+=encoding utf8
+
+=head1 Barbie's depended-on-by code.
+
+An old repository with dead upstream. L<http://metacpan.org> may be a beter
+alternative nowadays.
+
+=cut
