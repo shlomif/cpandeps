@@ -1,8 +1,9 @@
 =encoding utf8
 
-=head1 Barbie's depended-on-by code.
+=head1 Barbie/DrHyde's depended-on-by code.
 
-An old repository with dead upstream. L<http://metacpan.org> may be a beter
-alternative nowadays.
+An old repository with this upstream - L<https://github.com/DrHyde/CPANdeps> .
+
+L<http://metacpan.org> provides an alternative nowadays.
 
 =cut
